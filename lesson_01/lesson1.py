@@ -20,4 +20,3 @@ print_letter('д')
 print_letter('е')
 print_letter('н')
 print_letter('т')
-11
